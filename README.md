@@ -11,8 +11,9 @@ I work mostly with **C# / .NET** and **Python**, and I'm interested in AI applic
 - Looking to collaborate on: automotive software, health information systems, data integration and AI applications
 - Open to: internships and working student roles, especially in the automotive industry
 - Ask me about: C# / .NET, Python, DHIS2, REST APIs, DevOps and automating manual workflows
+- How to reach me: hijabhassan@outlook.com
 - Pronouns: she/her
-- I'm a chemical engineer turned software engineer
+- Fun fact: I'm a chemical engineer turned software engineer
 - I also enjoy teaching chemistry, physics, maths, biology, computer science and programming
 - Outside work: I enjoy reading fantasy, mystery and thrillers, journaling, sudoku and oil pastel art. I also watch anime; some favourites are Death Note, Code Geass, Jujutsu Kaisen, Demon Slayer and The Apothecary Diaries
 
@@ -61,7 +62,16 @@ The source code of these systems belongs to the Government of Pakistan, its fund
 
 ### Projects on GitHub
 
-- [DHIS2OrgUnitBulkUpdate](https://github.com/HijabH/DHIS2OrgUnitBulkUpdate): .NET console app that validates Excel input and bulk-updates organisation units through the DHIS2 API
+| Project | What it does | Tech |
+| --- | --- | --- |
+| [dhis2-user-provisioning](https://github.com/HijabH/dhis2-user-provisioning) | Creates DHIS2 user accounts in bulk from a CSV request file, with validation and a dry run | C#, .NET 8 |
+| [DHIS2OrgUnitBulkUpdate](https://github.com/HijabH/DHIS2OrgUnitBulkUpdate) | Validates Excel input and bulk-updates organisation units through the DHIS2 API | C#, .NET 8 |
+| [clinic-appointment-service](https://github.com/HijabH/clinic-appointment-service) | REST service for clinic bookings with double-booking protection and an audit log | C#, ASP.NET Core |
+| [can-signal-decoder](https://github.com/HijabH/can-signal-decoder) | Decodes CAN bus logs with DBC files: Intel and Motorola byte order, range checks, candump logs | C11, CMake |
+| [hl7-parser-cpp](https://github.com/HijabH/hl7-parser-cpp) | Parser and command-line tool for HL7 v2 hospital messages | C++17, CMake |
+| [server-health-automation](https://github.com/HijabH/server-health-automation) | Scheduled server checks (disk, services, TLS, backups) with webhook alerts on change | Python, systemd |
+| [service-desk-ticket-triage](https://github.com/HijabH/service-desk-ticket-triage) | LLM-based ticket triage with personal-data redaction and a rule-based fallback | Python, FastAPI, AI |
+| [invoice-extraction-workflow](https://github.com/HijabH/invoice-extraction-workflow) | Extracts and checks PDF invoices (totals, VAT, IBAN) and routes them for approval | Python, AI |
 
 ### Research
 
@@ -78,8 +88,8 @@ The source code of these systems belongs to the Government of Pakistan, its fund
 
 ### Tech
 
-C#, .NET, ASP.NET MVC, WinForms, WPF (MVVM), Python, JavaScript, SQL (MS SQL Server, PostgreSQL, MySQL, SQLite), REST APIs, DHIS2, Apache NiFi, Docker, Jenkins, Git, Bash, Apache, Nginx, AWS, Azure, Linux and Windows servers, Power BI, Grafana
+C#, .NET, ASP.NET Core, ASP.NET MVC, WinForms, WPF (MVVM), Python, C, C++, JavaScript, SQL (MS SQL Server, PostgreSQL, MySQL, SQLite), REST APIs, DHIS2, Apache NiFi, Docker, Jenkins, Git, Bash, Apache, Nginx, AWS, Azure, Linux and Windows servers, Power BI, Grafana
 
 ### Contact
-How to reach me:
+
 hijabhassan@outlook.com · [LinkedIn](https://linkedin.com/in/hijabhassan) · [Website](https://myresume.cloud/hijab-hassan)
