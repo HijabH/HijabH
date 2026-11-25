@@ -11,11 +11,10 @@ I work mostly with **C# / .NET** and **Python**, and I'm interested in AI applic
 - Looking to collaborate on: automotive software, health information systems, data integration and AI applications
 - Open to: internships and working student roles, especially in the automotive industry
 - Ask me about: C# / .NET, Python, DHIS2, REST APIs, DevOps and automating manual workflows
-- How to reach me: hijabhassan@outlook.com
-- Pronouns: she/her
 - Fun fact: I'm a chemical engineer turned software engineer
 - I also enjoy teaching chemistry, physics, maths, biology, computer science and programming
-- Outside work: I enjoy reading fantasy, mystery and thrillers, journaling, sudoku and oil pastel art. I also watch anime; some favourites are Death Note, Code Geass, Jujutsu Kaisen, Demon Slayer and The Apothecary Diaries
+- Outside work: I enjoy reading fantasy, mystery and thrillers, journaling, sudoku and oil pastel art. I also watch anime; some favourites are Death Note, Code Geass, Jujutsu Kaisen, Demon Slayer and The Apothecary Diaries.
+- Pronouns: she/her
 
 ### Professional work
 
